@@ -11,12 +11,6 @@
 </a>  
 </div>  
   
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RubenRaMar&&style=flat-square" align="center" />
-</div>  
-  
-
 <br/>  
 
 ### Hello, I'm Ruben Ramirez, a full-time full-stack web developer since 2023, and I'm enthusiastic about continuously acquiring knowledge in my field. 🚀  
